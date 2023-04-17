@@ -41,3 +41,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
   <br>
 </div>
+<br><br><br><br><br>
+<h3 align="center"> 👉 깃허브 서브계정 <a href="https://github.com/jin-grace">jin-grace 👈</h3>
