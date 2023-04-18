@@ -1,20 +1,3 @@
-<!--
-### Hi there 👋
-
-**graceyj/graceyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Grace%20YJ&fontColor=fff&fontSize=50)
 
 <div align=center>
@@ -41,6 +24,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
   <br><br>
+  
 </div>
-<br><br><br>
+
+<br><br>
 <h3 align="center"> 👉 깃허브 서브계정 <a href="https://github.com/jin-grace">jin-grace 👈</h3>
+<br><br>
