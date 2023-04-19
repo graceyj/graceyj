@@ -28,5 +28,5 @@
 </div>
 
 <br><br>
-<h3 align="center"> 👉 깃허브 서브계정 <a href="https://github.com/jin-grace">jin-grace 👈</h3>
+<h3 align="center"> 👉 깃허브 부계정 <a href="https://github.com/jin-grace">jin-grace 👈</h3>
 <br><br>
