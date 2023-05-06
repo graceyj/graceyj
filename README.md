@@ -28,6 +28,7 @@
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=graceyj&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <h3 align="center"> 👉 깃허브 부계정 <a href="https://github.com/jin-grace">jin-grace 👈</h3>
