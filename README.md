@@ -26,8 +26,8 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=graceyj&theme=shades-of-purple&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graceyj&layout=compact&theme=shades-of-purple" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=graceyj&theme=midnight-purple&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graceyj&layout=compact&theme=midnight-purple" />
 </div>
 
 <br>
