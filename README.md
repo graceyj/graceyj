@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Grace%20YJ&fontColor=fff&fontSize=50" />
 </div>
 
+<!--
 <div align=center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=30&pause=800&color=A113F7&width=620&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%8A%94+%EC%9C%A0%EC%A7%84%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 </div>
+-->
 
 <h3 align=center> 📚 STACKS & TOOLS </h3>
 
